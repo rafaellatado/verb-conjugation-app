@@ -26,9 +26,7 @@ const VerbApp = () => {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        /* const response = await fetch('../../answers/answers.txt'); */
-        /* const response = await fetch('/answers/answers.txt'); */
-        const response = await fetch('/answers/answers.txt'); 
+        const response = await fetch(`${process.env.PUBLIC_URL}/answers/answers.txt`);
   
         // Log the response for debugging purposes
         console.log('Response:', response);
