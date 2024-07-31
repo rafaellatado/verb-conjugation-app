@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/verb-conjugation-app/static/css/main.0f8a328d.css",
+    "main.js": "/verb-conjugation-app/static/js/main.319be2e5.js",
+    "static/js/453.eb0f5ce7.chunk.js": "/verb-conjugation-app/static/js/453.eb0f5ce7.chunk.js",
+    "index.html": "/verb-conjugation-app/index.html",
+    "main.0f8a328d.css.map": "/verb-conjugation-app/static/css/main.0f8a328d.css.map",
+    "main.319be2e5.js.map": "/verb-conjugation-app/static/js/main.319be2e5.js.map",
+    "453.eb0f5ce7.chunk.js.map": "/verb-conjugation-app/static/js/453.eb0f5ce7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f8a328d.css",
+    "static/js/main.319be2e5.js"
+  ]
+}

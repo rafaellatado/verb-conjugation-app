@@ -1,0 +1,134 @@
+{
+  "IRREGULIERS": {
+    "ÊTRE": {
+      "PRÉSENT": {
+        "Je": "suis",
+        "Tu": "es",
+        "Il/Elle/On": "est",
+        "Nous": "sommes",
+        "Vous": "êtes",
+        "Ils/Elles": "sont"
+      },
+      "PASSÉ COMPOSÉ": {
+        "Je": "'ai été",
+        "Tu": "as été",
+        "Il/Elle/On": "a été",
+        "Nous": "avons été",
+        "Vous": "avez été",
+        "Ils/Elles": "ont été"
+      },
+      "IMPARFAIT": {
+        "Je": "'étais",
+        "Tu": "étais",
+        "Il/Elle/On": "était",
+        "Nous": "étions",
+        "Vous": "étiez",
+        "Ils/Elles": "étaient"
+      },
+      "PLUS-QUE-PARFAIT": {
+        "Je": "'avais été",
+        "Tu": "avais été",
+        "Il/Elle/On": "avait été",
+        "Nous": "avions été",
+        "Vous": "aviez été",
+        "Ils/Elles": "avaient été"
+      },
+      "FUTUR SIMPLE": {
+        "Je": "serai",
+        "Tu": "seras",
+        "Il/Elle/On": "sera",
+        "Nous": "serons",
+        "Vous": "serez",
+        "Ils/Elles": "seront"
+      }
+    }
+  },
+  "REGULIERS_1": {
+    "AIMER": {
+      "PRÉSENT": {
+        "Je": "'aime",
+        "Tu": "aimes",
+        "Il/Elle/On": "aime",
+        "Nous": "aimons",
+        "Vous": "aimez",
+        "Ils/Elles": "aiment"
+      },
+      "PASSÉ COMPOSÉ": {
+        "Je": "'ai aimé",
+        "Tu": "as aimé",
+        "Il/Elle/On": "a aimé",
+        "Nous": "avons aimé",
+        "Vous": "avez aimé",
+        "Ils/Elles": "ont aimé"
+      },
+      "IMPARFAIT": {
+        "Je": "'aimais",
+        "Tu": "aimais",
+        "Il/Elle/On": "aimait",
+        "Nous": "aimions",
+        "Vous": "aimiez",
+        "Ils/Elles": "aimaient"
+      },
+      "PLUS-QUE-PARFAIT": {
+        "Je": "'avais aimé",
+        "Tu": "avais aimé",
+        "Il/Elle/On": "avait aimé",
+        "Nous": "avions aimé",
+        "Vous": "aviez aimé",
+        "Ils/Elles": "avaient aimé"
+      },
+      "FUTUR SIMPLE": {
+        "Je": "'aimerai",
+        "Tu": "aimeras",
+        "Il/Elle/On": "aimera",
+        "Nous": "aimerons",
+        "Vous": "aimerez",
+        "Ils/Elles": "aimeront"
+      }
+    }
+  },
+  "REGULIERS_2": {
+    "FINIR": {
+      "PRÉSENT": {
+        "Je": "finis",
+        "Tu": "finis",
+        "Il/Elle/On": "finit",
+        "Nous": "finissons",
+        "Vous": "finissez",
+        "Ils/Elles": "finissent"
+      },
+      "PASSÉ COMPOSÉ": {
+        "Je": "'ai fini",
+        "Tu": "as fini",
+        "Il/Elle/On": "a fini",
+        "Nous": "avons fini",
+        "Vous": "avez fini",
+        "Ils/Elles": "ont fini"
+      },
+      "IMPARFAIT": {
+        "Je": "finissais",
+        "Tu": "finissais",
+        "Il/Elle/On": "finissait",
+        "Nous": "finissions",
+        "Vous": "finissiez",
+        "Ils/Elles": "finissaient"
+      },
+      "PLUS-QUE-PARFAIT": {
+        "Je": "'avais fini",
+        "Tu": "avais fini",
+        "Il/Elle/On": "avait fini",
+        "Nous": "avions fini",
+        "Vous": "aviez fini",
+        "Ils/Elles": "avaient fini"
+      },
+      "FUTUR SIMPLE": {
+        "Je": "finirai",
+        "Tu": "finiras",
+        "Il/Elle/On": "finira",
+        "Nous": "finirons",
+        "Vous": "finirez",
+        "Ils/Elles": "finiront"
+      }
+    }
+  }
+}
