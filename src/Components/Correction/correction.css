@@ -1,0 +1,28 @@
+.buttons-correction {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+} 
+
+.buttons-correction button {
+  cursor: pointer;
+  font-size: 16px;
+  border: solid 1px;
+  border-radius: 15px;
+  width: 100%;
+  height: 50px;
+}
+
+.format-inputs-answer-keys {
+  display: flex;
+  gap: 50px;
+  margin-top: 20px;
+}
+
+.format-verb-tense {
+  margin-top: 50px;
+}
+
+.answers-correction {
+  list-style-type: none;
+}

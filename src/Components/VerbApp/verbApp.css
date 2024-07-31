@@ -1,0 +1,54 @@
+form label {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+} 
+
+form input {
+  width: 100%; /* Make both label and input take full width */
+  font-size: 16px;
+  padding: 5px;
+  caret-color: transparent;
+  text-align: center;
+  border: solid 1px;
+  margin-top: 20px;
+  border-radius: 5px;
+}
+
+form input:focus {
+  outline: none; /* Remove the default outline */
+  border: 2px solid darkgray; 
+}
+
+.error-message {
+  text-align: center;
+  color: red;
+  margin: 20px 0;
+}
+
+.lists {
+  list-style-type: none;
+  display: flex;
+  justify-content: flex-start;
+  gap: 20px;
+  overflow-x: auto;
+  white-space: nowrap; 
+  height: 50px;
+  margin: 20px 0px;
+}
+
+.available-verbs {
+  text-align: center;
+}
+
+.available-tenses {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.verbs-tenses-names {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
